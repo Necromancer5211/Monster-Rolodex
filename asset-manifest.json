@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Necromancer5211/Monster-Rolodex/static/css/main.8e36e092.chunk.css",
-    "main.js": "/Necromancer5211/Monster-Rolodex/static/js/main.a2f556e8.chunk.js",
-    "main.js.map": "/Necromancer5211/Monster-Rolodex/static/js/main.a2f556e8.chunk.js.map",
-    "runtime-main.js": "/Necromancer5211/Monster-Rolodex/static/js/runtime-main.5601c20a.js",
-    "runtime-main.js.map": "/Necromancer5211/Monster-Rolodex/static/js/runtime-main.5601c20a.js.map",
-    "static/js/2.cf29f7d0.chunk.js": "/Necromancer5211/Monster-Rolodex/static/js/2.cf29f7d0.chunk.js",
-    "static/js/2.cf29f7d0.chunk.js.map": "/Necromancer5211/Monster-Rolodex/static/js/2.cf29f7d0.chunk.js.map",
-    "index.html": "/Necromancer5211/Monster-Rolodex/index.html",
-    "precache-manifest.c9504dcf784329b8181f0c59fcf46ee1.js": "/Necromancer5211/Monster-Rolodex/precache-manifest.c9504dcf784329b8181f0c59fcf46ee1.js",
-    "service-worker.js": "/Necromancer5211/Monster-Rolodex/service-worker.js",
-    "static/css/main.8e36e092.chunk.css.map": "/Necromancer5211/Monster-Rolodex/static/css/main.8e36e092.chunk.css.map",
-    "static/js/2.cf29f7d0.chunk.js.LICENSE.txt": "/Necromancer5211/Monster-Rolodex/static/js/2.cf29f7d0.chunk.js.LICENSE.txt"
+    "main.css": "/Necromancer5211/Monster-Rolodex.git/static/css/main.8e36e092.chunk.css",
+    "main.js": "/Necromancer5211/Monster-Rolodex.git/static/js/main.5039c9f4.chunk.js",
+    "main.js.map": "/Necromancer5211/Monster-Rolodex.git/static/js/main.5039c9f4.chunk.js.map",
+    "runtime-main.js": "/Necromancer5211/Monster-Rolodex.git/static/js/runtime-main.786f14f8.js",
+    "runtime-main.js.map": "/Necromancer5211/Monster-Rolodex.git/static/js/runtime-main.786f14f8.js.map",
+    "static/js/2.8a77c072.chunk.js": "/Necromancer5211/Monster-Rolodex.git/static/js/2.8a77c072.chunk.js",
+    "static/js/2.8a77c072.chunk.js.map": "/Necromancer5211/Monster-Rolodex.git/static/js/2.8a77c072.chunk.js.map",
+    "index.html": "/Necromancer5211/Monster-Rolodex.git/index.html",
+    "precache-manifest.62633b6ffa45818ffde33cba0b9c6f82.js": "/Necromancer5211/Monster-Rolodex.git/precache-manifest.62633b6ffa45818ffde33cba0b9c6f82.js",
+    "service-worker.js": "/Necromancer5211/Monster-Rolodex.git/service-worker.js",
+    "static/css/main.8e36e092.chunk.css.map": "/Necromancer5211/Monster-Rolodex.git/static/css/main.8e36e092.chunk.css.map",
+    "static/js/2.8a77c072.chunk.js.LICENSE.txt": "/Necromancer5211/Monster-Rolodex.git/static/js/2.8a77c072.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.5601c20a.js",
-    "static/js/2.cf29f7d0.chunk.js",
+    "static/js/runtime-main.786f14f8.js",
+    "static/js/2.8a77c072.chunk.js",
     "static/css/main.8e36e092.chunk.css",
-    "static/js/main.a2f556e8.chunk.js"
+    "static/js/main.5039c9f4.chunk.js"
   ]
 }
